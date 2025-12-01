@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "ふわふわ時間",
+  "base_artist": "放課後ティータイム",
+  "createdAt": "2025-12-01T03:45:54.357152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふわふわ時間",
+      "artist": "あゆ",
+      "has_synced": false,
+      "path": "select/01_ふわふわ時間_あゆ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ふわふわ時間 [Single Ver.]",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/02_ふわふわ時間_[Single_Ver.]_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ふわふわ時間 [Single Ver.]",
+      "artist": "桜高軽音部",
+      "has_synced": false,
+      "path": "select/03_ふわふわ時間_[Single_Ver.]_桜高軽音部.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ふわふわ時間 [#12『軽音!』Mix]",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/04_ふわふわ時間_[_12『軽音!』Mix]_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ふわふわ時間",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/05_ふわふわ時間_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ふわふわ時間",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/06_ふわふわ時間_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ふわふわ時間(映画「けいおん!」Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/07_ふわふわ時間(映画「けいおん!」Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ふわふわ時間 [#12『軽音!』Mix]",
+      "artist": "放課後ティータイム (豊崎愛生, 日笠陽子, 佐藤聡美, 寿美菜子, 竹達彩奈)",
+      "has_synced": true,
+      "path": "select/08_ふわふわ時間_[_12『軽音!』Mix]_放課後ティータイム_(豊崎愛生,_日笠陽子,_佐藤聡美,_寿美菜子,_竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ふわふわ時間",
+      "artist": "桜高軽音部",
+      "has_synced": true,
+      "path": "select/09_ふわふわ時間_桜高軽音部.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ふわふわ時間 (唯&澪 Mix)",
+      "artist": "桜高軽音部 [平沢唯・秋山澪・田井中律・琴吹紬(CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": true,
+      "path": "select/10_ふわふわ時間_(唯&澪_Mix)_桜高軽音部_[平沢唯・秋山澪・田井中律・琴吹紬(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ふわふわ時間",
+      "artist": "桜高軽音部 [平沢唯・秋山澪・田井中律・琴吹紬(CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": true,
+      "path": "select/11_ふわふわ時間_桜高軽音部_[平沢唯・秋山澪・田井中律・琴吹紬(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ふわふわ時間",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/12_ふわふわ時間_HO‐KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ふわふわ時間(#12『軽音!』Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/13_ふわふわ時間(_12『軽音!』Mix)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ふわふわ時間 (#23『放課後!』Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/14_ふわふわ時間_(_23『放課後!』Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ふわふわ時間 [GAME Mix]",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/15_ふわふわ時間_[GAME_Mix]_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ふわふわ時間 [Studio Mix]",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/16_ふわふわ時間_[Studio_Mix]_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ふわふわ時間 『StudioMix』 (Instrumental [-Bass])",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/17_ふわふわ時間_『StudioMix』_(Instrumental_[-Bass])_放課後ティータイム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふわふわ時間",
+      "artist": "桜高軽音部",
+      "has_synced": false,
+      "path": "select/pl_01_ふわふわ時間_桜高軽音部.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ふわふわ時間",
+      "artist": "桜高軽音部",
+      "has_synced": false,
+      "path": "select/pl_02_ふわふわ時間_桜高軽音部.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ふわふわ時間",
+      "artist": "桜高軽音部",
+      "has_synced": false,
+      "path": "select/pl_03_ふわふわ時間_桜高軽音部.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ふわふわ時間",
+      "artist": "桜高軽音部",
+      "has_synced": false,
+      "path": "select/pl_04_ふわふわ時間_桜高軽音部.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ふわふわ時間(Cassette Mix)",
+      "artist": "桜高軽音部",
+      "has_synced": false,
+      "path": "select/pl_05_ふわふわ時間(Cassette_Mix)_桜高軽音部.txt"
+    }
+  ]
+}
