@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ふわふわ時間",
   "base_artist": "放課後ティータイム",
-  "createdAt": "2025-12-01T03:45:54.357152Z",
+  "createdAt": "2025-12-20T11:14:30.656345Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -144,41 +144,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "ふわふわ時間",
-      "artist": "桜高軽音部",
+      "artist": "放課後ティータイム",
       "has_synced": false,
-      "path": "select/pl_01_ふわふわ時間_桜高軽音部.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "ふわふわ時間",
-      "artist": "桜高軽音部",
-      "has_synced": false,
-      "path": "select/pl_02_ふわふわ時間_桜高軽音部.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "ふわふわ時間",
-      "artist": "桜高軽音部",
-      "has_synced": false,
-      "path": "select/pl_03_ふわふわ時間_桜高軽音部.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "ふわふわ時間",
-      "artist": "桜高軽音部",
-      "has_synced": false,
-      "path": "select/pl_04_ふわふわ時間_桜高軽音部.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "ふわふわ時間(Cassette Mix)",
-      "artist": "桜高軽音部",
-      "has_synced": false,
-      "path": "select/pl_05_ふわふわ時間(Cassette_Mix)_桜高軽音部.txt"
+      "path": "select/pl_01_ふわふわ時間_放課後ティータイム.txt"
     }
   ]
 }
